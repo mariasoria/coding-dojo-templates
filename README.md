@@ -14,4 +14,4 @@ You can click the 🚀 emoji to create a new repository from the template.
 | [➕ C++](https://github.com/lean-mind/cpp-katas-template) | [🚀](https://github.com/lean-mind/cpp-katas-template/generate) | C++, GoogleTest |
 | [💎 Ruby](https://github.com/lean-mind/ruby-katas-template) | [🚀](https://github.com/lean-mind/ruby-katas-template/generate) | Ruby, RSpec |
 | [🐹 Go](https://github.com/lean-mind/go-katas-template) | [🚀](https://github.com/lean-mind/go-katas-template/generate) | Go, Testify |
-| [ C#] (https://github.com/mariasoria/c-sharp-boilerplate/blob/main/c-sharp-boilerplate/README.md) [🚀](https://github.com/mariasoria/c-sharp-boilerplate/generate) | C#, NUnit3 |
+| [☘️ C#] (https://github.com/mariasoria/c-sharp-boilerplate) | [🚀](https://github.com/mariasoria/c-sharp-boilerplate/generate) | C#, NUnit3 |
